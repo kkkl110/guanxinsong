@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-01",
+  "tool": "image_gen.imagegen (built-in)",
+  "count": 2,
+  "status": "V4 blend pending user review",
+  "assets": [
+    {
+      "character": "凛音",
+      "file": "01-凛音/全身立绘-现代二游融合.png",
+      "prompt": "01-凛音/融合版-提示词.txt",
+      "source": "C:\\Users\\30687\\Documents\\ChatGPT\\米哈游笔试题代码仓库\\output\\character-assets\\pilot-v3-lighting\\01-凛音\\全身立绘-建模光影.png",
+      "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-7d921a83-8d79-4629-9b62-503097c9221e.png",
+      "verification": {
+        "Name": "凛音",
+        "Width": 1024,
+        "Height": 1536,
+        "AlphaMin": 0,
+        "AlphaMax": 253,
+        "TransparentSamples": 981,
+        "TotalSamples": 1536,
+        "OriginalPreserved": true
+      }
+    },
+    {
+      "character": "岳川",
+      "file": "02-岳川/全身立绘-现代二游融合.png",
+      "prompt": "02-岳川/融合版-提示词.txt",
+      "source": "C:\\Users\\30687\\Documents\\ChatGPT\\米哈游笔试题代码仓库\\output\\character-assets\\pilot-v3-lighting\\02-岳川\\全身立绘-建模光影.png",
+      "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-2e68a623-ae28-4c78-a5db-638b9bf75f69.png",
+      "verification": {
+        "Name": "岳川",
+        "Width": 1024,
+        "Height": 1536,
+        "AlphaMin": 0,
+        "AlphaMax": 254,
+        "TransparentSamples": 989,
+        "TotalSamples": 1536,
+        "OriginalPreserved": true
+      }
+    }
+  ]
+}

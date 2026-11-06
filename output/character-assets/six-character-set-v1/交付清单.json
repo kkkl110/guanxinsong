@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-01",
+  "tool": "image_gen.imagegen (built-in)",
+  "characterCount": 6,
+  "fullBodyCount": 6,
+  "portraitCount": 6,
+  "fullBodyStyle": "modern cyberpunk, anime character design, slightly stronger 3D modeled lighting",
+  "portraitStyle": "more 2D anime illustration, independently redrawn from own full-body identity",
+  "background": "transparent PNG",
+  "characters": [
+    {
+      "key": "01",
+      "name": "凛音",
+      "palette": "米白 / 深蓝 / 青",
+      "motif": "单侧光学数据耳机",
+      "assets": {
+        "fullBody": {
+          "file": "01-凛音/全身立绘.png",
+          "prompt": "01-凛音/立绘-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-efd34dbe-c426-43fa-8885-e3b865235997.png",
+          "verification": {
+            "Key": "01",
+            "Name": "凛音",
+            "Kind": "fullBody",
+            "Width": 1024,
+            "Height": 1536,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 968,
+            "Samples": 1536,
+            "OriginalPreserved": true
+          }
+        },
+        "portrait": {
+          "file": "01-凛音/头像-2D.png",
+          "prompt": "01-凛音/头像-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-cc8884c0-a7b4-415b-a635-c1583e08e0c4.png",
+          "verification": {
+            "Key": "01",
+            "Name": "凛音",
+            "Kind": "portrait",
+            "Width": 1254,
+            "Height": 1254,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 597,
+            "Samples": 1600,
+            "OriginalPreserved": true
+          }
+        }
+      }
+    },
+    {
+      "key": "02",
+      "name": "岳川",
+      "palette": "深蓝 / 灰白 / 橙",
+      "motif": "左机械前臂",
+      "assets": {
+        "fullBody": {
+          "file": "02-岳川/全身立绘.png",
+          "prompt": "02-岳川/立绘-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-3c1c3645-1dcf-41a2-a746-b54fe3c31c63.png",
+          "verification": {
+            "Key": "02",
+            "Name": "岳川",
+            "Kind": "fullBody",
+            "Width": 1024,
+            "Height": 1536,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 972,
+            "Samples": 1536,
+            "OriginalPreserved": true
+          }
+        },
+        "portrait": {
+          "file": "02-岳川/头像-2D.png",
+          "prompt": "02-岳川/头像-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-a95265c5-2bd6-4e2e-aa24-66752cd59cc8.png",
+          "verification": {
+            "Key": "02",
+            "Name": "岳川",
+            "Kind": "portrait",
+            "Width": 1254,
+            "Height": 1254,
+            "AlphaMin": 0,
+            "AlphaMax": 255,
+            "TransparentSamples": 541,
+            "Samples": 1600,
+            "OriginalPreserved": true
+          }
+        }
+      }
+    },
+    {
+      "key": "03",
+      "name": "弥夏",
+      "palette": "鼠尾草绿 / 米白 / 珊瑚",
+      "motif": "胶囊式救援模块",
+      "assets": {
+        "fullBody": {
+          "file": "03-弥夏/全身立绘.png",
+          "prompt": "03-弥夏/立绘-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-dc86d222-eb28-47ea-b706-c9a3e425f3f5.png",
+          "verification": {
+            "Key": "03",
+            "Name": "弥夏",
+            "Kind": "fullBody",
+            "Width": 1024,
+            "Height": 1536,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 997,
+            "Samples": 1536,
+            "OriginalPreserved": true
+          }
+        },
+        "portrait": {
+          "file": "03-弥夏/头像-2D.png",
+          "prompt": "03-弥夏/头像-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-45f0373c-f5d1-4b3b-a7e1-8ade11852479.png",
+          "verification": {
+            "Key": "03",
+            "Name": "弥夏",
+            "Kind": "portrait",
+            "Width": 1254,
+            "Height": 1254,
+            "AlphaMin": 0,
+            "AlphaMax": 253,
+            "TransparentSamples": 582,
+            "Samples": 1600,
+            "OriginalPreserved": true
+          }
+        }
+      }
+    },
+    {
+      "key": "04",
+      "name": "陆遥",
+      "palette": "炭黑 / 灰白 / 紫",
+      "motif": "透明AR眼镜与后颈数据模组",
+      "assets": {
+        "fullBody": {
+          "file": "04-陆遥/全身立绘.png",
+          "prompt": "04-陆遥/立绘-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-57621b68-24ca-4874-b2be-14d926a012ef.png",
+          "verification": {
+            "Key": "04",
+            "Name": "陆遥",
+            "Kind": "fullBody",
+            "Width": 1024,
+            "Height": 1536,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 970,
+            "Samples": 1536,
+            "OriginalPreserved": true
+          }
+        },
+        "portrait": {
+          "file": "04-陆遥/头像-2D.png",
+          "prompt": "04-陆遥/头像-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-e3493e03-31fb-4517-a0f0-49db25c98b15.png",
+          "verification": {
+            "Key": "04",
+            "Name": "陆遥",
+            "Kind": "portrait",
+            "Width": 1254,
+            "Height": 1254,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 534,
+            "Samples": 1600,
+            "OriginalPreserved": true
+          }
+        }
+      }
+    },
+    {
+      "key": "05",
+      "name": "栖羽",
+      "palette": "炭灰 / 银白 / 粉紫",
+      "motif": "折叠通信背板",
+      "assets": {
+        "fullBody": {
+          "file": "05-栖羽/全身立绘.png",
+          "prompt": "05-栖羽/立绘-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-89d9eb4b-1c7b-4486-88d6-f1f46aaf1441.png",
+          "verification": {
+            "Key": "05",
+            "Name": "栖羽",
+            "Kind": "fullBody",
+            "Width": 1024,
+            "Height": 1536,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 960,
+            "Samples": 1536,
+            "OriginalPreserved": true
+          }
+        },
+        "portrait": {
+          "file": "05-栖羽/头像-2D.png",
+          "prompt": "05-栖羽/头像-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-f989c4fe-4345-414b-b67b-f15a3d7fe4ab.png",
+          "verification": {
+            "Key": "05",
+            "Name": "栖羽",
+            "Kind": "portrait",
+            "Width": 1254,
+            "Height": 1254,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 367,
+            "Samples": 1600,
+            "OriginalPreserved": true
+          }
+        }
+      }
+    },
+    {
+      "key": "06",
+      "name": "洛恩",
+      "palette": "钢蓝 / 灰白 / 芥黄",
+      "motif": "承重式肩背外骨骼",
+      "assets": {
+        "fullBody": {
+          "file": "06-洛恩/全身立绘.png",
+          "prompt": "06-洛恩/立绘-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-0c3a6108-fc55-4283-b326-b3d4894d0cde.png",
+          "verification": {
+            "Key": "06",
+            "Name": "洛恩",
+            "Kind": "fullBody",
+            "Width": 1024,
+            "Height": 1536,
+            "AlphaMin": 0,
+            "AlphaMax": 254,
+            "TransparentSamples": 893,
+            "Samples": 1536,
+            "OriginalPreserved": true
+          }
+        },
+        "portrait": {
+          "file": "06-洛恩/头像-2D.png",
+          "prompt": "06-洛恩/头像-提示词.txt",
+          "generatedOriginal": "C:\\Users\\30687\\.codex\\generated_images\\01a196cd-f8e0-7931-a11e-36741126e376\\exec-6034f763-dc41-4738-a16f-59beb60a3968.png",
+          "verification": {
+            "Key": "06",
+            "Name": "洛恩",
+            "Kind": "portrait",
+            "Width": 1254,
+            "Height": 1254,
+            "AlphaMin": 0,
+            "AlphaMax": 255,
+            "TransparentSamples": 530,
+            "Samples": 1600,
+            "OriginalPreserved": true
+          }
+        }
+      }
+    }
+  ]
+}

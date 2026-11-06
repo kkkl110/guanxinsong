@@ -1,0 +1,12 @@
+Use case: style-transfer / identity-preserve.
+Asset: ONE SQUARE2D ANIME HEAD-AND-SHOULDERS AVATAR for the exact original adult game character shown in input image1. This avatar is paired with that character's more3D full-body render.
+
+IDENTITY IS FIXED by image1: same exact facial construction, eyes/iris color, eyebrows, expression/personality, skin tone, hairstyle/hair blocks, distinctive technology accessory and costume collar/color design. Do not invent a different face, recolor hair, remove distinctive glasses/headset, swap clothing or make all portraits share one template.
+
+DELIBERATE DIFFERENCE IN RENDERING: redraw the avatar in a visibly MORE2D contemporary anime-game portrait style than the3D standing model. Clean controlled linework around hair and facial landmarks, simplified shapes, grouped chunky hair highlights, two/three broad cel-shadow values and light soft painted transitions only where needed. Face readable at64-128px UI size. Modern polished2D character illustration, matte simplified skin, intentional expressive eyes/brows/mouth. NOT a crop of the3D image, not a photoreal face, glossy3D statue, beauty-model painting, thick comic outlines or chibi. Preserve the character's age/body-type cues in the face and shoulders.
+
+FRAMING: square1:1, request native1024x1024. A consistent head-and-shoulders/upper-chest crop across the six portraits, full top of hair and defining ponytail/hair outline inside the frame with some breathing room; head centered, face large, eyes around upper-middle, subtle three-quarter turn matching source attitude. Pose hands should be omitted from the crop unless essential, keep face unobstructed. Show enough collar/shoulder to recognize the outfit and major technology motif; do not squeeze a whole body into the square.
+
+BACKGROUND: TRUE transparent PNG alpha, no backdrop color, gradients, halo, painted checkerboard, circle, card frame, border, name, text, badge, UI, logo or watermark. Exactly one person, no weapon or extra object.
+
+Character identity cue: 凛音; 米白 / 深蓝 / 青 palette; signature 单侧光学数据耳机. The supplied full-body image is authoritative for this character, not earlier discarded generations.

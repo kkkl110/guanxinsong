@@ -1,0 +1,42 @@
+[
+  {
+    "file": "B01-loadout.jpg",
+    "size": [
+      1600,
+      722
+    ],
+    "format": "PNG",
+    "frames": 1,
+    "bytes": 1327942
+  },
+  {
+    "file": "B02-mobile-sound.png",
+    "size": [
+      1280,
+      720
+    ],
+    "format": "PNG",
+    "frames": 1,
+    "bytes": 275342
+  },
+  {
+    "file": "B03-safebox.png",
+    "size": [
+      843,
+      366
+    ],
+    "format": "PNG",
+    "frames": 1,
+    "bytes": 133414
+  },
+  {
+    "file": "A03-pet-safe.jpg",
+    "size": [
+      554,
+      360
+    ],
+    "format": "JPEG",
+    "frames": 1,
+    "bytes": 28467
+  }
+]
